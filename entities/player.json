@@ -265,7 +265,7 @@
 							{
 								"test": "has_equipment",
 								"domain": "any",
-								"value": "minecraft:item.nether_sprouts"
+								"value": "minecraft:movingblock"
 							}
 						]
 					},
